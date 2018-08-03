@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcus/buildfpmc2/fpmc/Examples/fpmc_legacy_ffcard.cc
+iostream
+-
+string
+-
+map
+-
+unistd.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcus/buildfpmc2/fpmc/Fpmc/External/comphep_interface/comphep_wraper.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
